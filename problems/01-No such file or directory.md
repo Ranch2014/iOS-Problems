@@ -12,7 +12,7 @@ error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or up
 
 如图所示：
 
-![01](/Users/jaxer/MyGitHub/iOS-Problems/pics/01.png)
+![01](https://github.com/Ranch2014/iOS-Problems/blob/master/pics/01.png)
 
 
 
